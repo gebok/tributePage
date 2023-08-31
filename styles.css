@@ -1,0 +1,70 @@
+html {
+    font-size: 20px;
+}
+
+body {
+
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    background: #f5f6f7;
+    color: #1b1b32;
+    margin: 0;
+}
+
+#main {
+    margin: 0;
+}
+
+.title {
+    margin: 0 auto;
+}
+
+#title {
+    font-family: 'Ubuntu', serif;
+    font-size: 3rem;
+    text-align: center;
+    margin: 20px auto;
+}
+
+#title-text {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin: -20px auto 30px;;
+}
+
+#img-div {
+    background-color: #0a2f29;
+    width: 702px;
+    height: 480px;
+    margin: 0 auto;
+}
+
+#image {
+    display: flex;
+    margin: auto;
+}
+
+#img-caption {
+    font-size: 0.9rem;
+}
+
+.life-events {
+    width: 702px;
+    height: 480px;
+    margin: 100px auto;
+}
+
+h2 {
+    margin: 0;
+}
+
+hr {
+    color:aquamarine;
+}
+
+#tribute-info {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+}
