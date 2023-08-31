@@ -86,7 +86,6 @@ h2 {
 #hr {
     margin: 0;
     padding: 0 6px;
-    width: 70%;
 }
 
 #tribute-info {
@@ -101,6 +100,7 @@ h2 {
 
 .career {
     margin: 0;
+    padding-bottom: 10px;
 }
 
 .tribute-info {
