@@ -42,8 +42,9 @@ body {
 }
 
 #image {
-    display: flex;
+    display: block;
     margin: auto;
+    max-width: 100%;
 }
 
 #img-caption {
@@ -52,8 +53,7 @@ body {
 
 .life-events {
     width: 702px;
-    height: 480px;
-    margin: 100px auto;
+    margin: 100px auto 0;
 }
 
 h2 {
@@ -65,6 +65,14 @@ hr {
 }
 
 #tribute-info {
+    width: 702px;
     font-family: 'Roboto', sans-serif;
     font-size: 1rem;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.tribute-info {
+    margin: 0;
+    padding-bottom: 50px;
 }
